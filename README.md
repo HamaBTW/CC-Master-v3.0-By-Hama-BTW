@@ -13,10 +13,12 @@ Welcome to **CC Master v3.0**, a Python application developed by Abidi Mohamed (
 ## Usage
 
 1. Clone or download this repository to your local machine.
-2. Install the necessary dependencies using `pip`: ```bash
+2. Install the necessary dependencies using `pip`:
+```bash
 pip install -r requirements.txt
-3. Run the application: python "CC Master v3.0.py"
-4. Follow the prompts to input a BIN and choose whether to generate or check credit card numbers.
+
+4. Run the application: python "CC Master v3.0.py"
+5. Follow the prompts to input a BIN and choose whether to generate or check credit card numbers.
 
 Please note that "CC Master v3.0" is intended for educational and testing purposes only. Generated credit card numbers are not real and should not be used for any fraudulent activities.
 
